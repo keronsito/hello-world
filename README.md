@@ -1,9 +1,10 @@
 # BUILDS ZVZ
 Se usará un tier mínimo de **6.1** de quipamiento normal, y **4.2** de equipamiento de artefacto.
-La montura obligatoria será: Caballo armado T5 y Garrapresta
+La montura obligatoria será: Caballo armado T5 y Garrapresta 
 
 TANQUES
-  * [Camlann](https://albiononline.com/es/characterbuilder/solo-builds/view/38536) 
+  * [Camlann Low Cost](https://albiononline.com/es/characterbuilder/solo-builds/view/38643)
+    * [Camlann High Cost](https://albiononline.com/es/characterbuilder/solo-builds/view/38536) 
   * [Mangual](https://albiononline.com/es/characterbuilder/solo-builds/view/23887)
   * [Guardabosques](https://albiononline.com/es/characterbuilder/solo-builds/view/23900)
   * [Guadaña de almas](https://albiononline.com/es/characterbuilder/solo-builds/view/23886)
