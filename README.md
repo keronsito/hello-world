@@ -2,7 +2,7 @@
 Se usará un tier mínimo de **6.1** de quipamiento normal, y **4.2** de equipamiento de artefacto.
 La montura obligatoria será: Caballo armado T5 y Garrapresta 
 
-TANQUES
+**TANQUES**
   * [Camlann Low Cost](https://albiononline.com/en/characterbuilder/solo-builds/view/38643)
     * [Camlann High Cost](https://albiononline.com/en/characterbuilder/solo-builds/view/38536) 
   * [Mangual-Morningstar](https://albiononline.com/en/characterbuilder/solo-builds/view/23887)
@@ -10,14 +10,14 @@ TANQUES
   * [Guadaña de almas-SoulScyethe](https://albiononline.com/en/characterbuilder/solo-builds/view/23886)
     * [Variant](https://albiononline.com/en/characterbuilder/solo-builds/view/38537)
 ---
-*MELEE DPS*
+**MELEE DPS**
  * [Galatinas](https://albiononline.com/en/characterbuilder/solo-builds/view/38538)
     * [Variant](https://albiononline.com/en/characterbuilder/solo-builds/view/38539)
  * [Alabarda-Helberd](https://albiononline.com/en/characterbuilder/solo-builds/view/23890)
    * [Variant](https://albiononline.com/en/characterbuilder/solo-builds/view/38540)
  * [Tridente-Trinity](https://albiononline.com/en/characterbuilder/solo-builds/view/23891)
 ---
-*RANGO DPS*
+**RANGO DPS**
 * [Arco largo 1-Long bow 1](https://albiononline.com/en/characterbuilder/solo-builds/view/23765)
 * [Arco largo 2-Long bow 2](https://albiononline.com/en/characterbuilder/solo-builds/view/22345)
 * [Arco de lamentaciones-Wailing](https://albiononline.com/en/characterbuilder/solo-builds/view/38541)
@@ -28,8 +28,8 @@ TANQUES
 * [Gran Bastón Maldito-Demonic Stuff](https://albiononline.com/en/characterbuilder/solo-builds/view/22143/updated)
 * [Maldiciones-Damnation](https://albiononline.com/en/characterbuilder/solo-builds/view/38544)
 ---
-*HEALERS*
+**HEALERS**
 ---
 
-*SUPPORT*
+**SUPPORT**
 ---
